@@ -7,3 +7,5 @@ This prototype stores records in the browser. Do not enter real credentials, con
 
 ## GitHub Pages
 The site is deployed from the `main` branch through GitHub Pages.
+
+Deployment refreshed after GitHub Pages was enabled.
