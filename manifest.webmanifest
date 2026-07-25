@@ -1,0 +1,20 @@
+{
+  "name": "OHS Online ISMS Command Centre",
+  "short_name": "OHS ISMS",
+  "description": "ISO 27001, privacy, cloud, continuity and AI management system",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d2238",
+  "theme_color": "#0d2238",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
